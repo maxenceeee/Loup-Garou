@@ -1,0 +1,9 @@
+name: Loup_garou
+version: 0.1
+main: ml.maxence.loupgarou.LoupGarou
+authors: [Maxence]
+description: Le jeu de carte loup-garou mais dans Minecraft
+website: https://maxence.ml/
+commands:
+  start:
+    description: Lancer le jeu !
